@@ -1,0 +1,17 @@
+.topHeader{
+    height: 60px;
+    background-color: rgb(14, 155, 108);
+}
+.topHeader input[type="search"]{
+    margin-top: 12px;
+}
+#topHeaderIcon{
+    color: #fff;
+    margin-right: 15px;
+    font-size: 18px;
+    margin-top: 15px;
+}
+.topHeader img{
+    border-radius: 50%;
+    margin-top: 15px;
+}

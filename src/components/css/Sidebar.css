@@ -1,0 +1,35 @@
+.sidebar {
+    height :100vh;
+    background-color: rgb(14, 155, 108);
+}
+
+hr {
+    background-color: #fff;
+}
+
+#sidebar-bottom nav .nav {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 15px 10px 25px;
+    border-radius:5px ;
+    margin: 0 15px;
+    margin-top: 10px;
+}
+
+#active {
+    background-attachment: #fff;
+    background-color: #9cb8a4;
+}
+
+#sidebar-bottom nav .nav:hover {
+    color: #fff;
+    background-color: #9cb8a4;
+}
+
+#icon {
+    font-size: 25px;
+    margin-top: -3px;
+    padding-right: 5px;
+}
